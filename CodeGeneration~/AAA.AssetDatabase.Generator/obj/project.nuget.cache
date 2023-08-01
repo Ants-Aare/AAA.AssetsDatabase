@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MS3Mnd8MY8bSpG8U/K3E4tmeOcXU/eNWa1nnrqu5DR3VQZgKMmZ/xeSo1uowgFgNPXb12O7YzBVEICsxD164Qg==",
+  "success": true,
+  "projectFilePath": "/Users/john/Documents/Github/MathGame/Assets/AAA.AssetDatabase/CodeGeneration~/AAA.AssetDatabase.Generator/AAA.AssetDatabase.Generator.csproj",
+  "expectedPackageFiles": [
+    "/Users/john/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/john/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
