@@ -1,4 +1,4 @@
-namespace AAA.AssetDatabase.Runtime
+namespace AAA.AssetsDatabase.Runtime
 {
     public sealed partial class DefaultPoolingImplementations
     {

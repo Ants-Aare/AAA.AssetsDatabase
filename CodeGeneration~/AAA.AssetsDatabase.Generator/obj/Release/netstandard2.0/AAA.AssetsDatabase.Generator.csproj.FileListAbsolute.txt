@@ -1,0 +1,10 @@
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/Plugins/netstandard2.0/AAA.AssetsDatabase.Generator.deps.json
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/Plugins/netstandard2.0/AAA.AssetsDatabase.Generator.dll
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/Plugins/netstandard2.0/AAA.AssetsDatabase.Generator.pdb
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.csproj.AssemblyReference.cache
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.AssemblyInfoInputs.cache
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.AssemblyInfo.cs
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.csproj.CoreCompileInputs.cache
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.dll
+/Users/john/Documents/Github/MathGame/Assets/AAA.AssetsDatabase/CodeGeneration~/AAA.AssetsDatabase.Generator/obj/Release/netstandard2.0/AAA.AssetsDatabase.Generator.pdb

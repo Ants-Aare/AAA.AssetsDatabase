@@ -1,0 +1,21 @@
+{
+    "name": "AAA.AssetsDatabase.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8b8549272127a4e4ea9f6407b23c9131",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:8d6c20a3660284add8285768d0df9195"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
