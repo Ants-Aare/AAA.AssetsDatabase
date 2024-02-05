@@ -69,7 +69,7 @@ public static class AssetCollectionGenerator
 
                 foreach (var entryData in data.Entries)
                 {
-                    stringBuilder.AppendLine($"public interface I{entryData.FieldNameCapitalized}Provider");
+                    stringBuilder.Append($"public interface I{entryData.FieldNameCapitalized}Provider");
                     if (entryData.LoadingType.HasValue)
                     {
                         if (entryData.LoadingType.Value == LoadingType.Asynchronous)
@@ -77,9 +77,7 @@ public static class AssetCollectionGenerator
                             stringBuilder.Append("Async");
                         }
                     }
-                    else
-                    {
-                    }
+                    
 
                     using (new BracketsBuilder(stringBuilder, 0))
                     {

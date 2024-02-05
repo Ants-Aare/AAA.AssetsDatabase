@@ -1,3 +1,5 @@
+#if AAA_LOADINGGEN
+
 using System;
 using System.Threading;
 using AAA.Core.Runtime.Enums;
@@ -47,3 +49,4 @@ namespace AAA.AssetsDatabase.Runtime
         }
     }
 }
+#endif
